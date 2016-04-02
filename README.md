@@ -13,9 +13,9 @@ if available and/or applicable: <br />
   Graduation Year<br />
   Name of grad school<br />
   For all jobs since graduation:<br />
-     Company<br />
-     Job Title<br />
-     Years employed<br />
+     --Company<br />
+     --Job Title<br />
+     --Years employed<br />
 In order to ensure quality control throughout this project, we will design a thorough set 
 of test questions (2 points). In order for people to be able to complete this task, they will have to 
 answer a certain percentage of the test questions correctly. This will ensure that the 
