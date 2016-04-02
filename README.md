@@ -7,15 +7,15 @@ to obtain this list (1 point). Next, we will import this data to CrowdFlower to 
 our workers (4 points). The task will provide a worker with the name and major of an alumnus. It will 
 first ask whether this person has a LinkedIn profile. Conditional on the answer to this 
 question being “yes,” the worker will extract the following information from their profile, 
-if available and/or applicable: 
-  LinkedIn profile short URL
-  Personal website URL
-  Graduation Year
-  Name of grad school
-  For all jobs since graduation:
-     Company
-     Job Title
-     Years employed
+if available and/or applicable: <br />
+  LinkedIn profile short URL<br />
+  Personal website URL<br />
+  Graduation Year<br />
+  Name of grad school<br />
+  For all jobs since graduation:<br />
+     Company<br />
+     Job Title<br />
+     Years employed<br />
 In order to ensure quality control throughout this project, we will design a thorough set 
 of test questions (2 points). In order for people to be able to complete this task, they will have to 
 answer a certain percentage of the test questions correctly. This will ensure that the 
