@@ -30,3 +30,9 @@ of work? How have trends changed over the past 20 years in terms what constitute
 “typical” job for a certain major? How have trends changed over the past 20 years in terms 
 of how long people stay at their first job out of college? What is the average number of 
 jobs for members of each graduating class?
+
+
+Data
+Our raw input data will be in the format of a .txt file containing alumni names, graduation year, and some other information. Information regarding each alumnus will be separated by line-breaks in the text file.
+
+
