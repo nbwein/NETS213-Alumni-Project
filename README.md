@@ -32,7 +32,7 @@ of how long people stay at their first job out of college? What is the average n
 jobs for members of each graduating class?
 
 
-Data
+Data:<br />
 Our raw input data will be in the format of a .txt file containing alumni names, graduation year, and some other information. Information regarding each alumnus will be separated by line-breaks in the text file.
 
 
