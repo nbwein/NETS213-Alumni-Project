@@ -17,7 +17,11 @@ if available and/or applicable: <br />
      --Job Title<br />
      --Years employed<br />
 In order to ensure quality control throughout this project, we will design a thorough set 
-of test questions (2 points). In order for people to be able to complete this task, they will have to 
+of test questions (2 points). An example of these questions is attached in the directory. Essentially, 
+because our initial questions to the workers are open ended, we are going to make multiple choice question
+to ensure the workers are knowledgeable enough to complete these tasks, but these test questions wont
+eliminate workers simply for phrasing the job slightly differently than in the test question (ie by 
+forgetting a space or a "."). In order for people to be able to complete this task, they will have to 
 answer a certain percentage of the test questions correctly. This will ensure that the 
 workers completing this task know how to properly extract the information being requested. 
 Additionally, we will have multiple workers fill in information for each alumnus and check 
