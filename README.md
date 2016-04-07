@@ -17,15 +17,18 @@ if available and/or applicable: <br />
      --Job Title<br />
      --Years employed<br />
 In order to ensure quality control throughout this project, we will design a thorough set 
-of test questions (2 points). An example of these questions is attached in the directory. Essentially, 
+of test questions (2 points). There will be two rounds to the test questions. 
+An example of these questions is attached in the directory. Essentially, 
 because our initial questions to the workers are open ended, we are going to make multiple choice question
 to ensure the workers are knowledgeable enough to complete these tasks, but these test questions wont
 eliminate workers simply for phrasing the job slightly differently than in the test question (ie by 
-forgetting a space or a "."). In order for people to be able to complete this task, they will have to 
+forgetting a space or a "."). In the first round, workers will be asked to sort through information and choose the 
+right choice. In the second round of test questions, workers will verify that the data taken from the first crowdsourcing 
+job posted is correct. In order for people to be able to complete each crowdsourcing task, they will have to 
 answer a certain percentage of the test questions correctly. This will ensure that the 
 workers completing this task know how to properly extract the information being requested. 
 Additionally, we will have multiple workers fill in information for each alumnus and check 
-whether responses match-up. In order to aggregate our responses, we will write a program 
+whether responses match-up (for the first section). In order to aggregate our responses, we will write a program 
 to analyze the CSV file containing the results (4 points). The results can be sorted by various 
 categories, such as major or graduating class. Aggregating the results by different 
 categories will then allow us to analyze according to such categories (4 points). Some of the trends 
